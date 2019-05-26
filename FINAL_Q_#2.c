@@ -45,8 +45,6 @@ int main(int argc, char *argv[]){
 	else 
 		column = IN_ODD;
 	
-	printf("hello");
-	
 	while(1){		
 		
 		
